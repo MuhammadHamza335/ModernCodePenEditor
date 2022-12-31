@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ModernCodePenEditor/static/css/main.3e2fb1d4.css",
+    "main.js": "/ModernCodePenEditor/static/js/main.613cacaa.js",
+    "index.html": "/ModernCodePenEditor/index.html",
+    "main.3e2fb1d4.css.map": "/ModernCodePenEditor/static/css/main.3e2fb1d4.css.map",
+    "main.613cacaa.js.map": "/ModernCodePenEditor/static/js/main.613cacaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2fb1d4.css",
+    "static/js/main.613cacaa.js"
+  ]
+}
