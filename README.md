@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install --legacy-peer-deps`
+
+To install all the dependencies you have to use this command to and be careful "codemirror": "^5.65.3", works fine with react 18 I tried using its latest version but it didn't work
+
 ### `npm start`
 
 Runs the app in the development mode.\
